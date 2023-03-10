@@ -1,0 +1,22 @@
+/* Write your CSS here */
+.arrow {
+  height: 25px;
+  width: 25px;
+}
+.lists {
+  list-style: none;
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+}
+.para {
+  font-family: 'Roboto';
+  font-size: 15px;
+  color: black;
+}
+.button {
+  background-color: #ffffff;
+  border: 0px;
+  cursor: pointer;
+  outline: none;
+}
